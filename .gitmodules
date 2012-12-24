@@ -1,0 +1,3 @@
+[submodule "Amanda"]
+	path = Amanda
+	url = git@github.com:bangb12/Amanda.git
